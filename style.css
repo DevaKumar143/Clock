@@ -1,0 +1,99 @@
+.hello {
+    text-align: center;
+    /* margin: 87px;
+    padding: 38px; */
+}
+
+.hei {
+    height: 68px;
+    position: relative;
+    left: 2px;
+    top: 37px;
+}
+
+.hei input {
+    width: 168px;
+    height: 40px;
+    border-radius: 8px;
+    border: solid rgb(96, 94, 92);
+    font-size: 20px;
+    padding: 0px 11px;
+}
+
+.hii {
+    position: relative;
+    top: 20px;
+}
+
+.hii button {
+    position: relative;
+    left: 2px;
+    font-size: 23px;
+    height: 32px;
+    width: 36px;
+    border-radius: 6px;
+    margin: 5px;
+    padding: 0px;
+    cursor: pointer;
+
+}
+
+ /* .hii button {
+    font-size: 23px;
+    cursor: pointer;
+} */
+.hii2 button {
+    position: relative;
+    left: 2px;
+    font-size: 23px;
+    height: 32px;
+    width: 36px;
+    border-radius: 6px;
+    margin: 5px;
+    padding: 0px;
+    top: 21px;
+    cursor: pointer;
+}
+
+/* .hii2 {
+    font-size: 84px;
+    position: relative;
+    bottom: 97px;
+} */
+.hii3 button{
+    position: relative;
+    left: 2px;
+    font-size: 23px;
+    height: 32px;
+    width: 36px;
+    border-radius: 6px;
+    margin: 5px;
+    padding: 0px;
+    top: 21px;
+    cursor: pointer;
+}
+
+/* .hii3 {
+    font-size: 84px;
+    position: relative;
+    bottom: 152px;
+} */
+.hii4 button{
+    position: relative;
+    left: 2px;
+    font-size: 23px;
+    height: 32px;
+    width: 36px;
+    border-radius: 6px;
+    margin: 5px;
+    padding: 0px;
+    top: 21px;
+    cursor: pointer;
+}
+
+/*
+.hii4 {
+    font-size: 84px;
+    position: relative;
+    bottom: 215px;
+} */
